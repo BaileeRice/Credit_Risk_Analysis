@@ -1,6 +1,7 @@
 # Credit_Risk_Analysis
 
-![image](https://user-images.githubusercontent.com/105184244/197450541-f140d924-4bb7-44e2-a692-b852849e1180.png) ![image](https://user-images.githubusercontent.com/105184244/197467971-57271299-489e-4f90-9562-7002a058125e.png)
+![image](https://user-images.githubusercontent.com/105184244/197450541-f140d924-4bb7-44e2-a692-b852849e1180.png)  ![image](https://user-images.githubusercontent.com/105184244/197468131-0c149b95-a7eb-41c3-9f51-2ac110c0ad3b.png)
+ ![image](https://user-images.githubusercontent.com/105184244/197467971-57271299-489e-4f90-9562-7002a058125e.png)
 
 
 ## OVERVIEW:
