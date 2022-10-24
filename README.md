@@ -86,4 +86,4 @@ Recall Score: High-Low risk = .91/.94
 
 ## SUMMARY:
 
-Based off all the models ran, the **Easy Ensemble AdaBoost Classifier** shines above all the others with a %92.5 accuracy at detecting if someone is a low-credit risk, the next highest only having ~%78. None of the models hold well at determining whether someone is high-risk, that's something to take into account if what youre seeking is pinpointing high-risk individuals. 
+Based off all the models ran, the **Easy Ensemble AdaBoost Classifier** shines above all the others with a %92.5 accuracy at detecting if someone is a low-credit risk, the next highest only having ~%78. None of the models hold well at determining whether someone is high-risk, that's something to take into account if what youre seeking is pinpointing high-risk individuals. For this particular dataset at least, it makes the most sense to go with EEAC algorithm.
