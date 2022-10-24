@@ -2,13 +2,13 @@
 
 ![image](https://user-images.githubusercontent.com/105184244/197450541-f140d924-4bb7-44e2-a692-b852849e1180.png)
 
-##OVERVIEW:##
+##OVERVIEW:
 
 Credit risk is an inherently unbalanced classification problem, as good loans easily outnumber risky loans. Therefore, you’ll need to employ different techniques to train and evaluate models with unbalanced classes. I'll be using imbalanced-learn and scikit-learn libraries to build and evaluate models using resampling.
 
 'Using the credit card credit dataset from LendingClub, a peer-to-peer lending services company, you’ll oversample the data using the RandomOverSampler and SMOTE algorithms, and undersample the data using the ClusterCentroids algorithm. Then, you’ll use a combinatorial approach of over- and undersampling using the SMOTEENN algorithm. Next, you’ll compare two new machine learning models that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk. Once you’re done, you’ll evaluate the performance of these models and make a written recommendation on whether they should be used to predict credit risk'.
 
-##OUTLINE:##
+##OUTLINE:
 
 -Step 1: Use Resampling Models to Predict Credit Risk
 
@@ -18,7 +18,7 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 
 ---
 
-##RESULTS:##
+##RESULTS:
 
    **_Naive Random Oversampling_**
 
@@ -82,6 +82,6 @@ Recall Score: High-Low risk = .91/.94
 
 ---
 
-##SUMMARY:##
+##SUMMARY:
 
 Based off all the models ran, the **Easy Ensemble AdaBoost Classifier** shines above all the others with a %92.5 accuracy at detecting if someone is a low-credit risk, the next highest only having ~%78. None of the models hold well at determining whether someone is high-risk, that's something to take into account if what youre seeking is pinpointing high-risk individuals. 
