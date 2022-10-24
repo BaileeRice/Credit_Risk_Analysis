@@ -25,7 +25,9 @@ RESULTS:
 ![image](https://user-images.githubusercontent.com/105184244/197461505-bd4662f8-638c-4128-8c65-e36af7a79058.png)
 
 Balanced Accuracy: %64.7
+
 Precision: low for High-risk loans, high for Low-risk loans
+
 Recall Score: High-Low risk = .66/.67
 
 **_SMOTE Oversampling_**
@@ -33,7 +35,9 @@ Recall Score: High-Low risk = .66/.67
 ![image](https://user-images.githubusercontent.com/105184244/197461664-3a0df21e-b4d5-4441-9023-8f9fcca7c9f0.png)
 
 Balanced Accuracy: %62.5
+
 Precision: low for High-risk loans, high for Low-risk loans
+
 Recall Score: High-Low risk = .62/.67
 
 **_Undersampling_**
@@ -41,7 +45,9 @@ Recall Score: High-Low risk = .62/.67
 ![image](https://user-images.githubusercontent.com/105184244/197461708-5a6612de-02b8-4521-bc57-429eede1f27d.png)
 
 Balanced Accuracy: %52.1
+
 Precision: low for High-risk loans, high for Low-risk loans
+
 Recall Score: High-Low risk = .59/.46
 
 **_Combination Under-Over Sampling_**
@@ -49,7 +55,9 @@ Recall Score: High-Low risk = .59/.46
 ![image](https://user-images.githubusercontent.com/105184244/197461743-2ed5ee8c-13d3-45e1-b271-19172039f928.png)
 
 Balanced Accuracy: %62.5
+
 Precision: low for High-risk loans, high for Low-risk loans
+
 Recall Score: High-Low risk = .71/.54
 
 **_Balanced Random Forest Classifier_**
@@ -57,7 +65,9 @@ Recall Score: High-Low risk = .71/.54
 ![image](https://user-images.githubusercontent.com/105184244/197462110-dc9e459b-7f5b-4016-a991-84b26e289f2a.png)
 
 Balanced Accuracy: %78.7
+
 Precision: low for High-risk loans, high for Low-risk loans
+
 Recall Score: High-Low risk = .67/.91
 
 **_Easy Ensemble AdaBoost Classifier_**
@@ -65,7 +75,9 @@ Recall Score: High-Low risk = .67/.91
 ![image](https://user-images.githubusercontent.com/105184244/197462132-294fb58f-abe6-4b3f-b6bd-200c30b3131d.png)
 
 Balanced Accuracy: %92.5
+
 Precision: low for High-risk loans, high for Low-risk loans
+
 Recall Score: High-Low risk = .91/.94
 
 ---
